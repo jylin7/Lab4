@@ -14,7 +14,7 @@ public class ReclamationProject {
      *@param b : sfjkh
      *@return r : sfaf
      */
-    public static String doitt(final String a, final String b) {
+    public static String doit(final String a, final String b) {
         String temp1 = a;
         String temp2 = b;
         if (a.length() > b.length()) {
